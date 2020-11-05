@@ -12,7 +12,7 @@ Pasos para la instalacion de dependencias y compilador dmd para el lenguage de p
 
 - *Paso 4:* sudo apt-get install dmd-compiler dub
 
-###Compilamos nuestro archivo de lenguage D
+### Compilamos nuestro archivo de lenguage D
 
 - *Paso 5:* dmd saludo.d
 
