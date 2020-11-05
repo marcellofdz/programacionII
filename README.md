@@ -1,8 +1,8 @@
-## HOW TO para correr el programa.
+# HOW TO para correr el programa.
 
 Pasos para la instalacion de dependencias y compilador dmd para el lenguage de programación D. 
 
-### pasos de instalación para compilar dmd
+## pasos de instalación para compilar dmd en Linux Debian/Ubuntu
 
 - *Paso 1:* sudo wget https://netcologne.dl.sourceforge.net/project/d-apt/files/d-apt.list -O /etc/apt/sources.list.d/d-apt.list
 
